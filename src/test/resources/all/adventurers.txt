@@ -1,0 +1,7 @@
+John 1-1 E AADADAGA
+# Take everything
+Lucky 1-4 E AAAGAA
+# Stuck between the mountain and the end of the map, will do a 360
+Stucky 6-3 O AAAAGGGGA
+# Will be blockled by Lucky 
+Blocked 1-5 N A
